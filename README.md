@@ -8,7 +8,7 @@
 
 **1. Data_in_out.c**
 
-- Code for extracting values such as latitude and longitude required for drone flight through GPS data received by the GY-GPS6MV2 sensor.
+- Code for extracting values such as latitude and longitude required for drone flight through GPS data received by the **GY-GPS6MV2** sensor.
 
 **2. Scanf_Lab_1.c**
 
